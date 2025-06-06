@@ -3,7 +3,7 @@ season = "summer"  # TODO: Replace with input() to allow user interaction.
 plant_type = "flower"  # TODO: Replace with input() to allow user interaction.
 
 # Variable to hold gardening advice
-advice = ""
+advice = "this is advice"
 
 # Determine advice based on the season
 if season == "summer":
